@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain[groq]
+faiss-cpu  
+beautifulsoup4
+langgraph
+typing-extensions
+torch
+uuid
+PyMuPDF
+gradio
